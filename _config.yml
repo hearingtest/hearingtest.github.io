@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://hearingtest.github.io
+title: Hearing Test
+tagline: hearing clinic
+description: hearing aid
+paginate: 5
